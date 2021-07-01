@@ -1,0 +1,42 @@
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EventHub.DAL.dll.config
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EventHub.DAL.dll
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EventHub.DAL.pdb
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EntityFramework.dll
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EntityFramework.xml
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CopyComplete
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.dll
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.pdb
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.csprojAssemblyReference.cache
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.Migrations.init.resources
+C:\Users\saifejaz\source\repos\EventHub\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.GenerateResource.cache
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.dll.config
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.dll
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.pdb
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.dll
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.xml
+D:\EventHub-master\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csprojAssemblyReference.cache
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CoreCompileInputs.cache
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CopyComplete
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.dll
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.pdb
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.Migrations.m1.resources
+D:\EventHub-master\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.GenerateResource.cache
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.dll.config
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.dll
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EventHub.DAL.pdb
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.dll
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.xml
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csprojAssemblyReference.cache
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.Migrations.m1.resources
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.GenerateResource.cache
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CoreCompileInputs.cache
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.csproj.CopyComplete
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.dll
+D:\Training Files\Training Submitted\MVC\EventHub-master\EventHub.DAL\obj\Debug\EventHub.DAL.pdb
